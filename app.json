@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "online-dictionary-app",
-    "slug": "online-dictionary-app",
+    "name": "Offline Dictionary",
+    "slug": "snack-c4c55c5a-68fd-411d-9b19-42a2b6a6c692",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "android":{
+      "package":"com.testuser.oflinedictionaryapp"
     }
   }
 }
